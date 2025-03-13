@@ -51,7 +51,6 @@ status_task:
   depends_on:
     - pytest
 
-  container:
     image: alpine:latest
     cpu: 0.5
     memory: 512M
