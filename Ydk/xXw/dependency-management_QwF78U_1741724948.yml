@@ -41,7 +41,6 @@ tests_task:
       pytest_script: poetry run pytest --integration -v --junitxml=junit.xml
       on_failure:
         annotate_failure_artifacts:
-          path: junit.xml
           format: junit
           type: text/xml
 
