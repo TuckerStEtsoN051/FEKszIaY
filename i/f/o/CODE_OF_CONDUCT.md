@@ -25,7 +25,6 @@
 
 1. 将代码克隆到本地
 2. 安装 gitbook：[Setup and Installation of GitBook](https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md)
-3. 执行 gitbook serve
 4. 在浏览器中访问 http://localhost:4000
 5. 生成的文档在 `_book` 目录下
 
