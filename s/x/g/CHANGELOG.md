@@ -2594,7 +2594,6 @@ Please see the documentation of the `gr.ImageEditor` component for more details:
 ## 3.47.0
 
 ### Highlights
-
 #### new `FileExplorer` component ([#5672](https://github.com/gradio-app/gradio/pull/5672) [`e4a307ed6`](https://github.com/gradio-app/gradio/commit/e4a307ed6cde3bbdf4ff2f17655739addeec941e))
 
 Thanks to a new capability that allows components to communicate directly with the server _without_ passing data via the value, we have created a new `FileExplorer` component.
