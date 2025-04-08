@@ -17,6 +17,5 @@
     "@babel/plugin-transform-runtime",
     ["module-resolver", {
       "alias": { "rt": "./src/" }
-    }]
   ]
 }
