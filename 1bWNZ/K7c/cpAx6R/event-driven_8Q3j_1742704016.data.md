@@ -28,7 +28,6 @@ Please ensure your pull request adheres to the following guidelines:
 Thank you for your suggestions!
 
 ## Creating your own awesome list
-
 To create your own list, check out the [instructions](https://github.com/sindresorhus/awesome/blob/master/create-list.md).
 
 ## Adding something to an awesome list
