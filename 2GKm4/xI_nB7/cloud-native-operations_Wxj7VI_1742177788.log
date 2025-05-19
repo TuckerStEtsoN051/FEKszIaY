@@ -1,5 +1,4 @@
 ROOT := td-redis-operator
-#TARGETS := operator admin
 #TARGETS := admin
 TARGETS := operator
 REGISTRY := tongduncloud
