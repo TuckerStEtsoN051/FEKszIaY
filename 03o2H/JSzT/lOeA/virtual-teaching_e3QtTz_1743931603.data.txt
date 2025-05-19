@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 class MyClass {
     int x;   // Public attribute
   private:   // Private access specifier
