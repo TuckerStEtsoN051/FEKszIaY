@@ -57,4 +57,3 @@ push:
 			VERSION=$(VERSION) envsubst |              \
 			kubectl apply -f -;                        \
 	done
-
