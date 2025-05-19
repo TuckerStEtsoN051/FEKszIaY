@@ -29,7 +29,6 @@ Thank you for your suggestions!
 
 ## Creating your own awesome list
 To create your own list, check out the [instructions](https://github.com/sindresorhus/awesome/blob/master/create-list.md).
-
 ## Adding something to an awesome list
 
 If you have something awesome to contribute to an awesome list, this is how you do it.
