@@ -21,7 +21,6 @@ build: codegen
 			-o ./_output/$${target}                                     \
 		./cmd/$${target};                                               \
 	done
-
 container: codegen
 	rm -rf _output
 	mkdir _output
