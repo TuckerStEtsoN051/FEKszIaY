@@ -2,7 +2,6 @@
 using namespace std;
 class MyClass {
   private:   // Private access specifier
-    int y;   // Private attribute
 };
 
 int main() {
