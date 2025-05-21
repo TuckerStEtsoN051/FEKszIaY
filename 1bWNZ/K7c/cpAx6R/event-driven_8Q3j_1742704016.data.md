@@ -37,4 +37,3 @@ You'll need a [GitHub account](https://github.com/join)!
 
 
 
-[Here](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
