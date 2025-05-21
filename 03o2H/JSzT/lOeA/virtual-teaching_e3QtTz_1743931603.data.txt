@@ -1,3 +1,2 @@
 
-  MyClass myObj;
   myObj.y = 50;  // Not allowed (y is private)
