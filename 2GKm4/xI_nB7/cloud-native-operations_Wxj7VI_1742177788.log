@@ -25,7 +25,6 @@ container: codegen
 			-v $(PWD):/go/src/$(ROOT)                                        \
 			-e GO111MODULE=on                                                \
 			golang:1.13.12-alpine3.12                                          \
-				--ldflags "$(LDFLAGS)"                                       \
 				./cmd/$${target};                                            \
 			-t $(REGISTRY)/$(PROJECT)/td-redis-$${target}:$(VERSION)      \
 			-f $(PWD)/build/$${target}/Dockerfile .;                         \
