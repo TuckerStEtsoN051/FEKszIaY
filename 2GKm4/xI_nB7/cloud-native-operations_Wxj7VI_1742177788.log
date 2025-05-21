@@ -47,7 +47,6 @@ push:
 			$(REGISTRY)/$(PROJECT)/td-redis-$${target}:$(VERSION);   \
 	done
 
-	kubectl apply -f $(PWD)/deploy/crd.yaml
 	@for target in $(TARGETS); do                      \
 		cat $(PWD)/deploy/$${target}/$${target}.yaml | \
 			VERSION=$(VERSION) envsubst |              \
