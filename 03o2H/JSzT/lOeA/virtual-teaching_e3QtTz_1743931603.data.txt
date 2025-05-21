@@ -1,6 +1,5 @@
 #include <iostream>
 class MyClass {
-  private:   // Private access specifier
 };
 
 int main() {
