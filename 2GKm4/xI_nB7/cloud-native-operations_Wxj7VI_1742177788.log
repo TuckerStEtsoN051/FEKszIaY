@@ -30,7 +30,6 @@ container: codegen
 				-o _output/$${target}                                        \
 				--ldflags "$(LDFLAGS)"                                       \
 				./cmd/$${target};                                            \
-		docker build                                                         \
 			-t $(REGISTRY)/$(PROJECT)/td-redis-$${target}:$(VERSION)      \
 			-f $(PWD)/build/$${target}/Dockerfile .;                         \
 	done
