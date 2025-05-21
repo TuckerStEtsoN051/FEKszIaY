@@ -40,4 +40,3 @@
 {"leaf_name": "data/test/tb_data/hard_negative_sampler_edge", "leaf_file": ["data/test/tb_data/hard_negative_sampler_edge/taobao_noclk_edge_gl.csv"]}
 {"leaf_name": "data/test/tb_data/hard_negative_sampler_item", "leaf_file": ["data/test/tb_data/hard_negative_sampler_item/taobao_ad_feature_gl.csv"]}
 {"leaf_name": "data/test/tb_data/hard_negative_sampler_user", "leaf_file": ["data/test/tb_data/hard_negative_sampler_user/taobao_user_profile_gl.csv"]}
-{"leaf_name": "data/test/tb_data_with_time", "leaf_file": ["data/test/tb_data_with_time/taobao_test_data_with_time", "data/test/tb_data_with_time/taobao_train_data_with_time"]}
