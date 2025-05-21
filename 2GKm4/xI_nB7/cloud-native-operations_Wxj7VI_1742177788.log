@@ -7,7 +7,6 @@ LDFLAGS := `./hack/version.sh`
 
 .PHONY: codegen compile build push deploy
 
-codegen:
 	go generate -v ./...
 
 	rm -rf _output
