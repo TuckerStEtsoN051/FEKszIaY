@@ -28,7 +28,6 @@ To create your own list, check out the [instructions](https://github.com/sindres
 If you have something awesome to contribute to an awesome list, this is how you do it.
 
 You'll need a [GitHub account](https://github.com/join)!
-
 1. Access the awesome list's GitHub page. For example: https://github.com/sindresorhus/awesome
 3. Now click on the edit icon. ![Step 3 - Click on Edit](https://cloud.githubusercontent.com/assets/170270/9402927/6506af22-480c-11e5-8c18-7ea823530099.png)
 4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). ![Step 4 - Edit the file](https://cloud.githubusercontent.com/assets/170270/9402932/7301c3a0-480c-11e5-81f5-7e343b71674f.png)
