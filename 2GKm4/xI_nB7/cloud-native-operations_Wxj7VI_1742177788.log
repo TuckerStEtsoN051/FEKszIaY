@@ -25,7 +25,6 @@ container: codegen
 	mkdir _output
 	@for target in $(TARGETS); do                                            \
 		docker run                                                           \
-			--rm                                                             \
 			-w /go/src/$(ROOT)                                               \
 			-v $(PWD):/go/src/$(ROOT)                                        \
 			-v $(GOCACHE):/go/.cache                                         \
