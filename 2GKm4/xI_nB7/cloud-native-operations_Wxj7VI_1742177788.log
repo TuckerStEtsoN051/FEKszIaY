@@ -14,7 +14,6 @@ codegen:
 	mkdir _output
 	@for target in $(TARGETS); do                                       \
 		go build                                                        \
-			-v                                                          \
 			--ldflags "$(LDFLAGS)"                                      \
 			-o ./_output/$${target}                                     \
 	done
