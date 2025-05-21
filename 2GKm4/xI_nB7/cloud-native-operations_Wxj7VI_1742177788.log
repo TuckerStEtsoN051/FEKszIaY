@@ -25,7 +25,6 @@ container: codegen
 		docker run                                                           \
 			-w /go/src/$(ROOT)                                               \
 			-v $(PWD):/go/src/$(ROOT)                                        \
-			-v $(GOPATH)/pkg/mod:/go/pkg/mod                                 \
 			-e GO111MODULE=on                                                \
 			-e GOCACHE=/go/.cache                                            \
 			-e GOPROXY=https://goproxy.cn                                    \
