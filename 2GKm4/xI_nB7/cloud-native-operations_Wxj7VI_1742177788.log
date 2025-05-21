@@ -29,7 +29,6 @@ container: codegen
 			-e GOPROXY=https://goproxy.cn                                    \
 			golang:1.13.12-alpine3.12                                          \
 				-o _output/$${target}                                        \
-				-v                                                           \
 				--ldflags "$(LDFLAGS)"                                       \
 				./cmd/$${target};                                            \
 		docker build                                                         \
