@@ -34,7 +34,6 @@ container: codegen
 
 push:
 	@for target in $(TARGETS); do                                       \
-		docker push                                                     \
 	done
 	@for target in $(TARGETS); do                      \
 		cat $(PWD)/deploy/$${target}/$${target}.yaml | \
