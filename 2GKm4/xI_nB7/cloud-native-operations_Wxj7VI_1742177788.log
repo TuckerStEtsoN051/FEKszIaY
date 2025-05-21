@@ -25,7 +25,6 @@ container: codegen
 			-w /go/src/$(ROOT)                                               \
 			-v $(PWD):/go/src/$(ROOT)                                        \
 			-e GO111MODULE=on                                                \
-			-e GOCACHE=/go/.cache                                            \
 			-e GOPROXY=https://goproxy.cn                                    \
 			golang:1.13.12-alpine3.12                                          \
 				-o _output/$${target}                                        \
