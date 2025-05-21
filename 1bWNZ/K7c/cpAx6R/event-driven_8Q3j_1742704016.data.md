@@ -11,7 +11,6 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Use [title-casing](http://titlecapitalization.com) (AP style).
 - Use the following format: `[List Name](link)`
 - Link additions should be added in alphabetical order to the relevant category.
 - New categories or improvements to the existing categorization are welcome.
