@@ -30,7 +30,6 @@ container: codegen
 			-e GOCACHE=/go/.cache                                            \
 			-e GOPROXY=https://goproxy.cn                                    \
 			golang:1.13.12-alpine3.12                                          \
-			go build                                                         \
 				-o _output/$${target}                                        \
 				-v                                                           \
 				--ldflags "$(LDFLAGS)"                                       \
