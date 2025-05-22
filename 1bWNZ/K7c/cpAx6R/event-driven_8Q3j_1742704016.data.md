@@ -6,7 +6,6 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Check your spelling and grammar.
 - The pull request and commit should have a useful title.
-- The body of your commit message should contain a link to the repository.
 
 Thank you for your suggestions!
 
