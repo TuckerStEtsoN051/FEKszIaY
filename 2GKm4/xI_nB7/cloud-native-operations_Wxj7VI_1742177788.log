@@ -1,6 +1,5 @@
 ROOT := td-redis-operator
 TARGETS := operator
-REGISTRY := tongduncloud
 	go generate -v ./...
 
 	mkdir _output
