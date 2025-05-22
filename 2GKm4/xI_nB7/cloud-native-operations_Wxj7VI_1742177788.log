@@ -25,6 +25,5 @@ push:
 	@for target in $(TARGETS); do                                       \
 	done
 	@for target in $(TARGETS); do                      \
-		cat $(PWD)/deploy/$${target}/$${target}.yaml | \
 			VERSION=$(VERSION) envsubst |              \
 	done
