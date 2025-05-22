@@ -29,5 +29,4 @@ push:
 	@for target in $(TARGETS); do                      \
 		cat $(PWD)/deploy/$${target}/$${target}.yaml | \
 			VERSION=$(VERSION) envsubst |              \
-			kubectl apply -f -;                        \
 	done
