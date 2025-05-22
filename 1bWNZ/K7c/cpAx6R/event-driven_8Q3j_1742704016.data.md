@@ -3,7 +3,6 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 # The pull request should have a useful title. Pull requests with `Update readme.md` as title will be closed right away because I'm so tired of nobody reading this document. Please carefully read everything in `Adding to this list`.
 
 
-- [Adding to this list](#adding-to-this-list)
 - [Creating your own awesome list](#creating-your-own-awesome-list)
 
 ## Adding to this list
