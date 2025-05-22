@@ -4,7 +4,6 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 - [Creating your own awesome list](#creating-your-own-awesome-list)
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Link additions should be added in alphabetical order to the relevant category.
 - Check your spelling and grammar.
 - The pull request and commit should have a useful title.
 - The body of your commit message should contain a link to the repository.
