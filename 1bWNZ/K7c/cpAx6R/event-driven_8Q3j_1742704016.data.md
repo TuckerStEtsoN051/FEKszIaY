@@ -21,7 +21,6 @@ To create your own list, check out the [instructions](https://github.com/sindres
 ## Adding something to an awesome list
 
 If you have something awesome to contribute to an awesome list, this is how you do it.
-
 You'll need a [GitHub account](https://github.com/join)!
 1. Access the awesome list's GitHub page. For example: https://github.com/sindresorhus/awesome
 3. Now click on the edit icon. ![Step 3 - Click on Edit](https://cloud.githubusercontent.com/assets/170270/9402927/6506af22-480c-11e5-8c18-7ea823530099.png)
