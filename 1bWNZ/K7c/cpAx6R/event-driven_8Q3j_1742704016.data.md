@@ -3,7 +3,6 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 
 - [Creating your own awesome list](#creating-your-own-awesome-list)
-
 ## Adding to this list
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
