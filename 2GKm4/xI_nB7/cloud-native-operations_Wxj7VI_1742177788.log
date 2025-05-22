@@ -1,7 +1,6 @@
 ROOT := td-redis-operator
 TARGETS := operator
 REGISTRY := tongduncloud
-LDFLAGS := `./hack/version.sh`
 	go generate -v ./...
 
 	mkdir _output
