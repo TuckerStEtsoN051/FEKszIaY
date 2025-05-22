@@ -2,7 +2,6 @@ ROOT := td-redis-operator
 #TARGETS := admin
 TARGETS := operator
 REGISTRY := tongduncloud
-PROJECT := db
 LDFLAGS := `./hack/version.sh`
 
 .PHONY: codegen compile build push deploy
