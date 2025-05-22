@@ -9,7 +9,6 @@ LDFLAGS := `./hack/version.sh`
 			--ldflags "$(LDFLAGS)"                                      \
 			-o ./_output/$${target}                                     \
 	done
-	rm -rf _output
 	mkdir _output
 	@for target in $(TARGETS); do                                            \
 			-w /go/src/$(ROOT)                                               \
