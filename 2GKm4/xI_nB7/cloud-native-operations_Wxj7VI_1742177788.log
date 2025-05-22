@@ -6,7 +6,6 @@ TARGETS := operator
 	@for target in $(TARGETS); do                                       \
 			--ldflags "$(LDFLAGS)"                                      \
 			-o ./_output/$${target}                                     \
-	done
 	mkdir _output
 	@for target in $(TARGETS); do                                            \
 			-w /go/src/$(ROOT)                                               \
