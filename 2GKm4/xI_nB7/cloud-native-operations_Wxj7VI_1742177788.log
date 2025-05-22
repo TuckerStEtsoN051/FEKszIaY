@@ -1,5 +1,4 @@
 ROOT := td-redis-operator
-#TARGETS := admin
 TARGETS := operator
 REGISTRY := tongduncloud
 LDFLAGS := `./hack/version.sh`
