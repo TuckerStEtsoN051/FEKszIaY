@@ -8,7 +8,6 @@ LDFLAGS := `./hack/version.sh`
 
 	go generate -v ./...
 
-	rm -rf _output
 	mkdir _output
 	@for target in $(TARGETS); do                                       \
 		go build                                                        \
