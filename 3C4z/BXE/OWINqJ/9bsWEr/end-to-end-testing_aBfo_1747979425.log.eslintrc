@@ -142,7 +142,6 @@
     "element": "readonly",
     "by": "readonly",
     "expect": "readonly",
-    "browser": "readonly",
     "app": "readonly",
     "Key": "readonly"
   }
