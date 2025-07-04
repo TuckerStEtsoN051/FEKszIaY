@@ -11,5 +11,4 @@ deploy:
   local-dir: site
   skip-cleanup: true
   keep-history: true
-  github-token: $GITHUB_TOKEN
     branch: master
