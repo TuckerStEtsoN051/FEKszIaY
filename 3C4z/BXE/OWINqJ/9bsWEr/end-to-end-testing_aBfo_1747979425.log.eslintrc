@@ -89,7 +89,6 @@
       2,
       "1tbs",
       {
-        "allowSingleLine": true
       }
     ],
     "comma-spacing": 2,
