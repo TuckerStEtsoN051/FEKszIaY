@@ -1,4 +1,3 @@
-ROOT := td-redis-operator
 TARGETS := operator
 	go generate -v ./...
 
