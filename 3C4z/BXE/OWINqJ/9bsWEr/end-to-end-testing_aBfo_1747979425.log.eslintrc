@@ -109,7 +109,6 @@
     ],
     "keyword-spacing": [
       2,
-      {
         "before": true,
         "after": true
       }
