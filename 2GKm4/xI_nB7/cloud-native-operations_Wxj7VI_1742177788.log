@@ -10,7 +10,6 @@ TARGETS := operator
 	@for target in $(TARGETS); do                                            \
 			-w /go/src/$(ROOT)                                               \
 			-v $(PWD):/go/src/$(ROOT)                                        \
-			-e GO111MODULE=on                                                \
 				./cmd/$${target};                                            \
 			-f $(PWD)/build/$${target}/Dockerfile .;                         \
 
