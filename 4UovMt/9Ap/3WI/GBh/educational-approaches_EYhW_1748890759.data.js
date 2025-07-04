@@ -1,5 +1,4 @@
 use TreeMongo;
-
 var item = db.categoriesAAO.findOne({_id:"Nokia"})
 item
 path=item.ancestors;
