@@ -7,7 +7,6 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 - Check your spelling and grammar.
 - The pull request and commit should have a useful title.
 
-Thank you for your suggestions!
 ## Creating your own awesome list
 To create your own list, check out the [instructions](https://github.com/sindresorhus/awesome/blob/master/create-list.md).
 3. Now click on the edit icon. ![Step 3 - Click on Edit](https://cloud.githubusercontent.com/assets/170270/9402927/6506af22-480c-11e5-8c18-7ea823530099.png)
