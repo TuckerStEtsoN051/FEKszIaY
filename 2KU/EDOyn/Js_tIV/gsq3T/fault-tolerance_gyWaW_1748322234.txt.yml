@@ -11,4 +11,3 @@ jdk:
   - oraclejdk8
 cache:
   directories:
-    - src/main/resources/ui/node_modules
