@@ -3,7 +3,6 @@ TARGETS := operator
 
 	mkdir _output
 	@for target in $(TARGETS); do                                       \
-			--ldflags "$(LDFLAGS)"                                      \
 			-o ./_output/$${target}                                     \
 	mkdir _output
 	@for target in $(TARGETS); do                                            \
