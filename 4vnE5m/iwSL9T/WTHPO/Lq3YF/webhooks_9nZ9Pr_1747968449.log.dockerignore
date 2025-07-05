@@ -1,4 +1,3 @@
 /.git
 /console/node_modules
 /server/tests-py/.hasura-dev-python-venv
-/server/tests-py/__pycache__
