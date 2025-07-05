@@ -7,7 +7,6 @@ script:
   - nvm use $NODE_VERSION
   - mvn clean test package
 scala:
-  - "2.11.2"
 jdk:
   - oraclejdk8
 cache:
