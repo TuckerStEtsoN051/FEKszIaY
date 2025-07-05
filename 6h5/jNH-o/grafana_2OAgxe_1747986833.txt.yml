@@ -14,6 +14,5 @@ issues:
   - EXC0014
 
 linters-settings:
-  errcheck:
     exclude-functions:
       - "fmt.Fprintf"
