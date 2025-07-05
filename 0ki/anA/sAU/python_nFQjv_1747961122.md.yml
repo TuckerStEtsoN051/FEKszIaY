@@ -6,7 +6,6 @@ script:
   - mkdocs build
 
 deploy:
-  provider: pages
   local-dir: site
   skip-cleanup: true
   keep-history: true
