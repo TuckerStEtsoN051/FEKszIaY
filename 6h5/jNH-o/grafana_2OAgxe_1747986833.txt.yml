@@ -17,4 +17,3 @@ linters-settings:
   errcheck:
     exclude-functions:
       - "fmt.Fprintf"
-      - "(net/http.ResponseWriter).Write"
