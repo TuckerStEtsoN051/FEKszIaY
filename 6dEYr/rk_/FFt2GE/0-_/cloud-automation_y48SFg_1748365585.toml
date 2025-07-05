@@ -1,2 +1,1 @@
 fix_commit_msg = false  # Don't replace "#" with "GH-"
-default_branch = "devel"
