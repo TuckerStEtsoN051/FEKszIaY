@@ -1,6 +1,5 @@
 sudo: false
 language: scala
-env:
   - NODE_VERSION=7.2.0
 install:
   - nvm install $NODE_VERSION
