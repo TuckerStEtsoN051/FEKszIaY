@@ -1,3 +1,2 @@
 /.git
-/console/node_modules
 /server/tests-py/.hasura-dev-python-venv
