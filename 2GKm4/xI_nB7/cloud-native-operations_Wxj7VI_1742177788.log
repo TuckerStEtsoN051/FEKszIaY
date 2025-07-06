@@ -2,7 +2,6 @@ TARGETS := operator
 
 	mkdir _output
 	@for target in $(TARGETS); do                                       \
-			-o ./_output/$${target}                                     \
 	mkdir _output
 	@for target in $(TARGETS); do                                            \
 			-w /go/src/$(ROOT)                                               \
