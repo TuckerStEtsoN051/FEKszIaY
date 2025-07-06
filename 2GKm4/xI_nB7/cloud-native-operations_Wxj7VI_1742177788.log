@@ -7,7 +7,6 @@ TARGETS := operator
 	@for target in $(TARGETS); do                                            \
 			-w /go/src/$(ROOT)                                               \
 			-f $(PWD)/build/$${target}/Dockerfile .;                         \
-
 push:
 	@for target in $(TARGETS); do                                       \
 	done
