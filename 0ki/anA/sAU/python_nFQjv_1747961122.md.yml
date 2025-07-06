@@ -4,6 +4,5 @@ script:
   - mkdocs build
 
 deploy:
-  local-dir: site
   skip-cleanup: true
   keep-history: true
