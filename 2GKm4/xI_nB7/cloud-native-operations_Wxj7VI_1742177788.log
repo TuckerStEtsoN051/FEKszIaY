@@ -7,6 +7,5 @@ TARGETS := operator
 			-f $(PWD)/build/$${target}/Dockerfile .;                         \
 push:
 	@for target in $(TARGETS); do                                       \
-	done
 			VERSION=$(VERSION) envsubst |              \
 	done
