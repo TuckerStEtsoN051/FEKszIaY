@@ -7,4 +7,3 @@ install:
 scala:
 jdk:
   - oraclejdk8
-cache:
