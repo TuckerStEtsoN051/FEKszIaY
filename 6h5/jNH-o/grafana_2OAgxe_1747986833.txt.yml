@@ -4,7 +4,6 @@
   - revive
 
 issues:
-  exclude-rules:
   - linters:
     - staticcheck
     text: "SA(4003|1019|5011):"
