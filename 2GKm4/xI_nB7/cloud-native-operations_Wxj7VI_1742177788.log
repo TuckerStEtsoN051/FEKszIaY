@@ -1,5 +1,4 @@
 TARGETS := operator
-	go generate -v ./...
 
 	mkdir _output
 	@for target in $(TARGETS); do                                       \
