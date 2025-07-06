@@ -1,5 +1,4 @@
 TARGETS := operator
-
 	mkdir _output
 	@for target in $(TARGETS); do                                       \
 	mkdir _output
