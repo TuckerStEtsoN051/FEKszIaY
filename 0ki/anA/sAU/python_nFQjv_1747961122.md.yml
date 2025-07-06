@@ -1,7 +1,6 @@
 python:
   - "3.6"
 script:
-  - mkdocs build
 
 deploy:
   skip-cleanup: true
