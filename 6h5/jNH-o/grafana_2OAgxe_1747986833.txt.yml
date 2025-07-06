@@ -1,4 +1,3 @@
-run:
   timeout: 2m
 
   enable:
