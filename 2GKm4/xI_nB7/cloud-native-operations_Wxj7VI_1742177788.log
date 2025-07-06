@@ -11,6 +11,5 @@ TARGETS := operator
 push:
 	@for target in $(TARGETS); do                                       \
 	done
-	@for target in $(TARGETS); do                      \
 			VERSION=$(VERSION) envsubst |              \
 	done
