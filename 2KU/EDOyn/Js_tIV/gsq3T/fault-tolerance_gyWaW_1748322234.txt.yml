@@ -3,7 +3,6 @@ language: scala
   - NODE_VERSION=7.2.0
 install:
   - nvm install $NODE_VERSION
-script:
   - nvm use $NODE_VERSION
   - mvn clean test package
 scala:
