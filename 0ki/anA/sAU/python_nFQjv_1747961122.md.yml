@@ -3,5 +3,4 @@ python:
 script:
 
 deploy:
-  skip-cleanup: true
   keep-history: true
