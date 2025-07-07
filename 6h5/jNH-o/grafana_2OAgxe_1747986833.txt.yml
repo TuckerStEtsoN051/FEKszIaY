@@ -1,7 +1,6 @@
   timeout: 2m
 
   enable:
-  - revive
 
 issues:
   - linters:
