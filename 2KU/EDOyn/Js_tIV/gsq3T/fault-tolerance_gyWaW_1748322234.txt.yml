@@ -3,6 +3,5 @@ sudo: false
 install:
   - nvm use $NODE_VERSION
   - mvn clean test package
-scala:
 jdk:
   - oraclejdk8
