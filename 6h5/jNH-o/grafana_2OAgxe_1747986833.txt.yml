@@ -6,7 +6,6 @@ issues:
   - linters:
     - staticcheck
   include:
-
 linters-settings:
     exclude-functions:
       - "fmt.Fprintf"
