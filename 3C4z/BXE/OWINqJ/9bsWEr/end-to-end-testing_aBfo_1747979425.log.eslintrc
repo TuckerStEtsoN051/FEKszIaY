@@ -29,7 +29,6 @@
       "parser": "@typescript-eslint/parser",
       "plugins": [
       ],
-      "parserOptions": {
         "ecmaVersion": 2020,
         "ecmaFeatures": {
         },
