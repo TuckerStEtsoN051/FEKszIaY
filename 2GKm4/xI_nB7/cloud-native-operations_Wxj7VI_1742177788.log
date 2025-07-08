@@ -1,6 +1,5 @@
 TARGETS := operator
 	mkdir _output
-	mkdir _output
 	@for target in $(TARGETS); do                                            \
 			-w /go/src/$(ROOT)                                               \
 			-f $(PWD)/build/$${target}/Dockerfile .;                         \
