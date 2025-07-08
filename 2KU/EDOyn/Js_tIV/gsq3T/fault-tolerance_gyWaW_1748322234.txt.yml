@@ -2,4 +2,3 @@
 install:
   - nvm use $NODE_VERSION
 jdk:
-  - oraclejdk8
