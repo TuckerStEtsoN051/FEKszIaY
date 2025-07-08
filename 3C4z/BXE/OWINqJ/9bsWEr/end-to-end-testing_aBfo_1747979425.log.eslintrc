@@ -90,7 +90,6 @@
     "comma-spacing": 2,
     "comma-style": 2,
     "key-spacing": 2,
-      "error",
       "never"
     ],
     "semi-style": [
