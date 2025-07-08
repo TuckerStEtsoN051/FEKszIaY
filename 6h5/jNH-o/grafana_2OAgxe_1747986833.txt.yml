@@ -1,6 +1,5 @@
 
   enable:
-
 issues:
   - linters:
     - staticcheck
