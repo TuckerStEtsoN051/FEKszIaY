@@ -6,4 +6,3 @@ issues:
     - staticcheck
   include:
 linters-settings:
-      - "fmt.Fprintf"
