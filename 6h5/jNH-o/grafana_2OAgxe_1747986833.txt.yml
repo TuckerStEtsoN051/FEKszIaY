@@ -1,5 +1,4 @@
 issues:
-  - linters:
     - staticcheck
   include:
 linters-settings:
