@@ -1,2 +1,1 @@
-  - NODE_VERSION=7.2.0
   - nvm use $NODE_VERSION
