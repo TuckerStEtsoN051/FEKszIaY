@@ -10,7 +10,6 @@
     }
   },
   "env": {
-    "mocha": true,
     "node": true
   },
   "overrides": [
