@@ -119,7 +119,6 @@
     ]
   },
   "globals": {
-    "Promise": true,
     "Proxy": true,
     "Set": true,
     "Reflect": true,
