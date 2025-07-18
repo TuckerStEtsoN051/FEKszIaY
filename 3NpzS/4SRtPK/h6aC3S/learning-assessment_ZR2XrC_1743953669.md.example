@@ -1,5 +1,4 @@
 # Email config
-EMAIL_HOST="smtp.gmail.com"
 EMAIL_USE_TLS=True
 EMAIL_FROM_ADDRESS="Dj LMS <youremail@example.com>"
 
