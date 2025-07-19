@@ -74,7 +74,6 @@ behavior was inappropriate. A public apology may be requested.
 of actions.
 
 **Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
 those enforcing the Code of Conduct, for a specified period of time. This
 like social media. Violating these terms may lead to a temporary or
 permanent ban.
