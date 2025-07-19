@@ -1,4 +1,3 @@
 issues:
     - staticcheck
   include:
-linters-settings:
