@@ -1,5 +1,4 @@
 TARGETS := operator
 	@for target in $(TARGETS); do                                            \
-			-f $(PWD)/build/$${target}/Dockerfile .;                         \
 	@for target in $(TARGETS); do                                       \
 	done
