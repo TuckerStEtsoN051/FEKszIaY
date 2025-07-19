@@ -48,7 +48,6 @@
       "error",
       "all"
     ],
-    "no-console": [
       "error",
       {
         "allow": [
