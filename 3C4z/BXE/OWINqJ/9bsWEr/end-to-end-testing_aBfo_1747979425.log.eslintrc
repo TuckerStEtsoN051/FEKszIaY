@@ -40,7 +40,6 @@
       "smart"
     ],
     "no-extra-boolean-cast": 0,
-    "quotes": [
       "error",
       "single"
     ],
