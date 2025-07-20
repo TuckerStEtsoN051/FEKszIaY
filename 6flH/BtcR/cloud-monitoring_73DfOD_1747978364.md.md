@@ -34,7 +34,6 @@ Examples of unacceptable behavior include:
 ## Enforcement Responsibilities
 
 acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
 or harmful.
 
 Community leaders have the right and responsibility to remove, edit, or reject
