@@ -1,4 +1,3 @@
 # Email config
 EMAIL_USE_TLS=True
-
 SECRET_KEY="<your_secret_key>"
