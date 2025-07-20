@@ -1,3 +1,2 @@
-	@for target in $(TARGETS); do                                            \
 	@for target in $(TARGETS); do                                       \
 	done
