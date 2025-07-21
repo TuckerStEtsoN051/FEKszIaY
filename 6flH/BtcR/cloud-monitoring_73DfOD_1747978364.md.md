@@ -75,7 +75,6 @@ permanent ban.
 
 ### 3. Temporary Ban
 
-
 **Consequence**: A temporary ban from any sort of interaction or public
 communication with the community for a specified period of time. No public or
 private interaction with the people involved, including unsolicited interaction
