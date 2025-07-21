@@ -71,7 +71,6 @@ behavior was inappropriate. A public apology may be requested.
 **Community Impact**: A violation through a single incident or series
 of actions.
 
-**Consequence**: A warning with consequences for continued behavior. No
 those enforcing the Code of Conduct, for a specified period of time. This
 like social media. Violating these terms may lead to a temporary or
 permanent ban.
