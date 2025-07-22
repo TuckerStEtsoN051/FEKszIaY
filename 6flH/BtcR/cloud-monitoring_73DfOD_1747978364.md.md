@@ -11,7 +11,6 @@ We pledge to act and interact in ways that contribute to an open, welcoming,
 ## Our Standards
 
 Examples of behavior that contributes to a positive environment for our
-community include:
 
 - Demonstrating empathy and kindness toward other people
 - Being respectful of differing opinions, viewpoints, and experiences
