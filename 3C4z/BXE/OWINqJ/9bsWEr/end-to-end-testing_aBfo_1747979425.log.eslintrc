@@ -19,7 +19,6 @@
       ],
       "excludedFiles": [
         "test/**/*.ts"
-      ],
       "extends": [
         "eslint:recommended",
         "plugin:@typescript-eslint/eslint-recommended",
