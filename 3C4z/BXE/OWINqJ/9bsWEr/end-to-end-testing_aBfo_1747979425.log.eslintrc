@@ -69,7 +69,6 @@
     "eol-last": 1,
     "no-unused-vars": 0,
     "no-extra-semi": 0,
-    "comma-dangle": 2,
     "no-lone-blocks": 0,
     "array-bracket-spacing": 2,
     "object-curly-spacing": 2,
