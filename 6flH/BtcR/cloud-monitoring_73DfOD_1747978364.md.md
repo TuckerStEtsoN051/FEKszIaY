@@ -30,7 +30,6 @@ Examples of unacceptable behavior include:
   professional setting
 
 ## Enforcement Responsibilities
-
 acceptable behavior and will take appropriate and fair corrective action in
 or harmful.
 
