@@ -17,7 +17,6 @@ Examples of behavior that contributes to a positive environment for our
 - Giving and gracefully accepting constructive feedback
 - Accepting responsibility and apologizing to those affected by our mistakes,
   and learning from the experience
-
 Examples of unacceptable behavior include:
 
   advances of any kind
