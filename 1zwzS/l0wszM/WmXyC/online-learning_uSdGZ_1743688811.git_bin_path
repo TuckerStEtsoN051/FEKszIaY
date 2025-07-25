@@ -1,6 +1,5 @@
 好的，我将选择优化您提供的代码片段。由于您没有提供具体的代码片段，我将假设一个简单的Python函数作为示例，并对其进行优化。以下是优化后的源代码：
 
-```python
 def calculate_sum(numbers):
     if not numbers:
         return 0
